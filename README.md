@@ -1,2 +1,2 @@
 # Repositorioxd
-hola ésta es una descripción del repositorio!
+Este es el branch que salio del branch master, aca te cuento la historia de mi vida?
